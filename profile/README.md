@@ -16,7 +16,7 @@
 <table align ="center">
   <tr>
     <tr>
-    <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=A7C7F7&&size=30&center=true&vCenter=true&width=175&height=35&lines=Professor&duration=1&pause=1000" style="vertical-align:top"></td>
+    <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=A7C7F7&&size=30&center=true&vCenter=true&width=175&height=35&lines=Professor&duration=1&pause=1000" ></td>
     </tr>
   </tr> 
   <tr>
@@ -30,7 +30,7 @@
 <table align ="center">
   <tr>
     <tr>
-    <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=A7C7F7&&size=30&center=true&vCenter=true&width=500&height=35&lines=Students&duration=1&pause=1000" style="vertical-align:top" ></td>
+    <td colspan=10 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=A7C7F7&&size=30&center=true&vCenter=true&width=500&height=35&lines=Students&duration=1&pause=1000"></td>
     </tr>
   </tr> 
   <tr>
