@@ -1,4 +1,4 @@
-</br><br/><br/>
+<br/>
 
 <div align=center><img src=https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=35&color=A7C7F7&center=true&height=53&lines=Welcome+to+ICL+Lab><br/><br><br>
 
