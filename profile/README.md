@@ -3,7 +3,7 @@
 <div align=center><img src=https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=35&color=A7C7F7&center=true&height=53&lines=Welcome+to+ICL+Lab><br/><br><br>
 
 &nbsp;<a href="mailto:iclrepositories@gmail.com"><img src="https://img.shields.io/badge/mail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" height=30px></a>
-&nbsp;<a href="https://www.notion.so/4327212422de4851b239cbf571f73545?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height=30px></a>
+&nbsp;<a href="https://prickle-leader-5f9.notion.site/9dcb8803f88749798b3e72394bade38f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height=30px></a>
 
 </br>
 
