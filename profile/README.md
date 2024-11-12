@@ -69,7 +69,7 @@
   </tr>
 
   <tr>
-    <td align="center"><a href="https://github.com/RyuHaGyeong"><b>류하경</b></a></td>
+    <td align="center"><a href="https://github.com/Mia-HaGyeong"><b>류하경</b></a></td>
     <td align="center"><a href="https://github.com/SooH-github"><b>박수현</b></a></td>
     <td align="center"><a href="https://github.com/yuchaewon"><b>유채원</b></a></td>
     <td align="center"><a href="https://github.com/seoyeong903"><b>이서영</b></a></td>
