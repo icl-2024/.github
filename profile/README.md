@@ -46,7 +46,7 @@
   <tr>
     <td align="center"><b>정선기*</b></td>
     <td align="center"><a href="https://github.com/ahj0224"><b>안효준</b></a></td>
-    <td align="center"><b>이효진</b></td>
+    <td align="center"><a href="https://github.com/HyoJin112"><b>이효진</b></td>
     <td align="center"><a href="https://github.com/imZiho"><b>김지호</b></a></td>
   </tr>
 
