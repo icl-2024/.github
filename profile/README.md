@@ -38,7 +38,7 @@
 
   <td align="center"><a href="https://github.com/ahj0224"><img src="https://avatars.githubusercontent.com/u/94240211?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
-  <td align="center"><img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="163px;" style="vertical-align:top" alt=""/>
+  <td align="center"><a href="https://github.com/HyoJin112"><img src="https://avatars.githubusercontent.com/u/118796080?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
   <td align="center"><a href="https://github.com/imZiho"><img src="https://avatars.githubusercontent.com/u/118801955?v=4" width="163px;" style="vertical-align:top" alt=""/>
   </tr>
