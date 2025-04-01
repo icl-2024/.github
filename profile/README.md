@@ -84,17 +84,25 @@
   <tr>
   <tr>
   <td align="center"><a href="https://github.com/dnss1"><img src="https://avatars.githubusercontent.com/u/180965865?v=4" width="163px; style="vertical-align:top" alt=""/>
-    
+  <td align="center"><a href=" "><img src=" " width="163px; style="vertical-align:top" alt=""/>
+  <td align="center"><a href=" "><img src=" " width="163px; style="vertical-align:top" alt=""/>
+  <td align="center"><a href=" "><img src=" " width="163px; style="vertical-align:top" alt=""/>
   </tr>
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/Mia-HaGyeong"><b>전정운</b></a></td>
+    <td align="center"><a href=" "><b> </b></a></td>
+    <td align="center"><a href=" "><b> </b></a></td>
+    <td align="center"><a href=" "><b> </b></a></td>
 
   </tr>
 
   <tr>
     <td align="center">2025. 03. 01 ~</td>
+    <td align="center"> </td>
+    <td align="center"> </td>
+    <td align="center"> </td>
   </tr>
 
 <br>
