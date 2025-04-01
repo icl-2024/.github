@@ -34,7 +34,7 @@
     </tr>
   </tr> 
   <tr>
-  <td align="center"><img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="163px;" style="vertical-align:top" alt=""/>
+  <td align="center"><a href="https://github.com/kukudozen"><img src="https://avatars.githubusercontent.com/u/88300246?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
   <td align="center"><a href="https://github.com/ahj0224"><img src="https://avatars.githubusercontent.com/u/94240211?v=4" width="163px;" style="vertical-align:top" alt=""/>
 
@@ -44,7 +44,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b>정선기*</b></td>
+    <td align="center"><a href="https://github.com/kukudozen"><b>정선기*</b></td>
     <td align="center"><a href="https://github.com/ahj0224"><b>안효준</b></a></td>
     <td align="center"><a href="https://github.com/HyoJin112"><b>이효진</b></td>
     <td align="center"><a href="https://github.com/imZiho"><b>김지호</b></a></td>
