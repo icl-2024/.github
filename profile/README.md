@@ -91,7 +91,7 @@
   </tr>
 
   <tr>
-    <td align="center"><a href="https://github.com/Mia-HaGyeong"><b>전정운</b></a></td>
+    <td align="center"><a href="https://github.com/dnss1"><b>전정운</b></a></td>
     <td align="center"><a href=" "><b> </b></a></td>
     <td align="center"><a href=" "><b> </b></a></td>
     <td align="center"><a href=" "><b> </b></a></td>
