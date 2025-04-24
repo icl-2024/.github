@@ -84,7 +84,7 @@
   <tr>
   <tr>
   <td align="center"><a href="https://github.com/dnss1"><img src="https://avatars.githubusercontent.com/u/180965865?v=4" width="163px; style="vertical-align:top" alt=""/>
-  <td align="center"><a href=" "><img src=" " width="163px; style="vertical-align:top" alt=""/>
+  <td align="center"><a href="https://github.com/HyeYeonP"><img src="https://avatars.githubusercontent.com/u/110224345?v=4" width="163px; style="vertical-align:top" alt=""/>
   <td align="center"><a href=" "><img src=" " width="163px; style="vertical-align:top" alt=""/>
   <td align="center"><a href=" "><img src=" " width="163px; style="vertical-align:top" alt=""/>
   </tr>
@@ -92,7 +92,7 @@
 
   <tr>
     <td align="center"><a href="https://github.com/dnss1"><b>전정운</b></a></td>
-    <td align="center"><a href=" "><b> </b></a></td>
+    <td align="center"><a href="https://github.com/HyeYeonP"><b>박혜연</b></a></td>
     <td align="center"><a href=" "><b> </b></a></td>
     <td align="center"><a href=" "><b> </b></a></td>
 
@@ -100,7 +100,7 @@
 
   <tr>
     <td align="center">2025. 03. 01 ~</td>
-    <td align="center"> </td>
+    <td align="center">2025. 03. 01 ~</td>
     <td align="center"> </td>
     <td align="center"> </td>
   </tr>
